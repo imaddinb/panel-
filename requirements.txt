@@ -1,0 +1,7 @@
+protobuf==6.30.2
+protobuf_decoder==0.4.0
+psutil==7.0.0
+pycryptodome==3.22.0
+PyJWT==2.10.1
+Requests==2.32.3
+telebot
